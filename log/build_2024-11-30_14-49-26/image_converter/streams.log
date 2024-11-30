@@ -1,0 +1,36 @@
+[1.084s] Invoking command in '/home/ashish/ros2_ws/src/image_converter': PYTHONPATH=/home/ashish/ros2_ws/build/image_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_converter build --build-base /home/ashish/ros2_ws/build/image_converter/build install --record /home/ashish/ros2_ws/build/image_converter/install.log --single-version-externally-managed install_data
+[1.324s] running egg_info
+[1.325s] creating ../../build/image_converter/image_converter.egg-info
+[1.325s] writing ../../build/image_converter/image_converter.egg-info/PKG-INFO
+[1.325s] writing dependency_links to ../../build/image_converter/image_converter.egg-info/dependency_links.txt
+[1.325s] writing entry points to ../../build/image_converter/image_converter.egg-info/entry_points.txt
+[1.326s] writing requirements to ../../build/image_converter/image_converter.egg-info/requires.txt
+[1.326s] writing top-level names to ../../build/image_converter/image_converter.egg-info/top_level.txt
+[1.326s] writing manifest file '../../build/image_converter/image_converter.egg-info/SOURCES.txt'
+[1.327s] reading manifest file '../../build/image_converter/image_converter.egg-info/SOURCES.txt'
+[1.328s] writing manifest file '../../build/image_converter/image_converter.egg-info/SOURCES.txt'
+[1.328s] running build
+[1.328s] running build_py
+[1.328s] creating /home/ashish/ros2_ws/build/image_converter/build
+[1.329s] creating /home/ashish/ros2_ws/build/image_converter/build/lib
+[1.329s] creating /home/ashish/ros2_ws/build/image_converter/build/lib/image_converter
+[1.329s] copying image_converter/image_conversion_node.py -> /home/ashish/ros2_ws/build/image_converter/build/lib/image_converter
+[1.329s] copying image_converter/__init__.py -> /home/ashish/ros2_ws/build/image_converter/build/lib/image_converter
+[1.329s] running install
+[1.329s] running install_lib
+[1.330s] creating /home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages/image_converter
+[1.330s] copying /home/ashish/ros2_ws/build/image_converter/build/lib/image_converter/image_conversion_node.py -> /home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages/image_converter
+[1.331s] copying /home/ashish/ros2_ws/build/image_converter/build/lib/image_converter/__init__.py -> /home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages/image_converter
+[1.331s] byte-compiling /home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages/image_converter/image_conversion_node.py to image_conversion_node.cpython-310.pyc
+[1.332s] byte-compiling /home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages/image_converter/__init__.py to __init__.cpython-310.pyc
+[1.333s] running install_data
+[1.333s] creating /home/ashish/ros2_ws/install/image_converter/share/ament_index
+[1.333s] creating /home/ashish/ros2_ws/install/image_converter/share/ament_index/resource_index
+[1.333s] creating /home/ashish/ros2_ws/install/image_converter/share/ament_index/resource_index/packages
+[1.333s] copying resource/image_converter -> /home/ashish/ros2_ws/install/image_converter/share/ament_index/resource_index/packages
+[1.333s] copying package.xml -> /home/ashish/ros2_ws/install/image_converter/share/image_converter
+[1.333s] running install_egg_info
+[1.335s] Copying ../../build/image_converter/image_converter.egg-info to /home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages/image_converter-0.0.0-py3.10.egg-info
+[1.336s] running install_scripts
+[1.357s] writing list of installed files to '/home/ashish/ros2_ws/build/image_converter/install.log'
+[1.380s] Invoked command in '/home/ashish/ros2_ws/src/image_converter' returned '0': PYTHONPATH=/home/ashish/ros2_ws/build/image_converter/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ashish/ros2_ws/install/image_converter/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/image_converter build --build-base /home/ashish/ros2_ws/build/image_converter/build install --record /home/ashish/ros2_ws/build/image_converter/install.log --single-version-externally-managed install_data
